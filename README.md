@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KALYANIL
-- 👀 I’m interested in ... Creating solutions for complicated data in Business with advanced and best mathematical theories using Python
+- 👀 I’m interested in ... Creating solutions for complicated data in Industry with advanced and best mathematical theories using Python
 - 🌱 I’m currently learning ...Neural 
 - 💞️ I’m looking to collaborate on ... who gives oppurtunities for innovations. Doesnt matter what positon I am, matters what impact I made for future!
 - 📫 How to reach me ... @Linkedin
